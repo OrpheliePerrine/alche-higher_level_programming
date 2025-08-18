@@ -1,3 +1,3 @@
 #!/usr/bin/python3
 for i in range(0, 98):
-    print("{} = {:x}".format(I), end="")
+    print("{} = {:x}".format(i), end="")
