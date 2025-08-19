@@ -1,6 +1,9 @@
 #!/usr/bin/python3
 def islower(c):
-    if (c) is lowercase:
-        return True
+    '''Check if c is lowercase'''
+    if (c) is_lowercase:
+        return 'a' <= char <=  'z':
+            print("{} is lower".format(c))
     else:
-    return False      
+        return 'A' <= char <= 'Z':
+            print("{} is upper".format(c))
