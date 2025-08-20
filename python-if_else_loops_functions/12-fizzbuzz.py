@@ -10,4 +10,3 @@ def fizzbuzz():
         else:
             s = str(i)
         print(s, end=" ")
-
