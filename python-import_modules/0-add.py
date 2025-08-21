@@ -1,3 +1,6 @@
 #!/usr/bin/python3
 from add_0.py import add
-print("<a vaule> + <b value> = <add(a, b) value>")
+
+a = 1
+b = 2
+print("<{} value> + <{} value> = <add{}{} value".format(a, b, add(a, b)))
