@@ -6,4 +6,3 @@ def print_matrix_integer(matrix=[[]]):
                 print(" ", end="")  # add a space between numbers
             print("{:d}".format(num), end="")  # print integer without newline
         print()  # new line after each row
-
